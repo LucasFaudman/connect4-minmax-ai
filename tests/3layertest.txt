@@ -1,0 +1,3 @@
+player
+ai
+oxxxox1/2xox2/3x3/3o3/3o3/3o3 o
