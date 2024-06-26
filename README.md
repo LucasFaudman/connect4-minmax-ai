@@ -1,7 +1,7 @@
 # Connect Four in Color with MinMax AI
 Connect Four with AI using the MinMax algorithm with alpha-beta pruning. 
 
-1st Place Winner of 2018 Umich EECS 183 Connect 4 AI Competition sponsored by T.D. Ameritrade.
+1st Place Winner of 2018 Umich EECS 183 Connect 4 AI Competition sponsored by J.P. Morgan & T.D. Ameritrade.
 
 ## Description
 This program allows the user to play Connect Four against an AI that uses the MiniMax algorithm with alpha-beta pruning
